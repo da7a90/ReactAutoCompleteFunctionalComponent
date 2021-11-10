@@ -101,7 +101,7 @@ const AutoComplete = ({ data }) => {
         <span role="img" aria-label="empty emoji">
         🗅
         </span>{" "}
-        <em>sorry no suggestions</em>
+        <em>nothing matches the search</em>
       </div>
     );
   };
